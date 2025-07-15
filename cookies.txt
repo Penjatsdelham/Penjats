@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-webfacil.tinet.cat	TRUE	/	FALSE	1999999999	JSESSIONID	0ED51CDCC12642C9FA807DA95C642FF6
-webfacil.tinet.cat	TRUE	/	FALSE	1999999999	cookiesEnabled	true
-
